@@ -7,4 +7,4 @@ def countchar(text_file):
 	return (len(file_text) - 1)
 
 def test_task23():
-	assert countchar('input.txt') == 6
+	assert countchar('task2/input.txt') == 6
